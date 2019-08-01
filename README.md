@@ -1,6 +1,9 @@
 # Java Challenge Template for the EntwicklerHeld Platform
 This is a template (Maven Archetype) which sets up a java challenge project
 
+## Prerequisite
+You need have maven to be installed
+
 ## Installation Variant 1:
 * Clone repo
 * Run `mvn clean install`
