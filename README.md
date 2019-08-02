@@ -1,8 +1,8 @@
 # Java Challenge Template for the EntwicklerHeld Platform
-This is a template (Maven Archetype) which sets up a java challenge project
+This is a template (Maven Archetype) which sets up a java challenge project. There are 2 possibilities for the setup process.
 
 ## Prerequisite
-You need have maven to be installed
+You need have Maven to be installed. You can download it here: https://maven.apache.org/ 
 
 ## Installation Variant 1:
 * Clone repo
