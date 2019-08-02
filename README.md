@@ -20,5 +20,5 @@ mvn install:install-file -Dfile=<path-to-jar> -DgroupId=de.entwicklerheld -Darti
 ```bash
 mvn archetype:generate -DarchetypeGroupId=de.entwicklerheld -DarchetypeArtifactId=java-challenge-template -DarchetypeVersion=1.0-SNAPSHOT -DgroupId=de.entwicklerheld -DartifactId=<name-of-your-challenge>
 ```
-1. You will be asked to specify a version: `Define value for property 'version' 1.0-SNAPSHOT: :` Just press Enter here
-1. You will be asked to specify a a short name for the Challenge: `Define value for property 'shortName':` Enter the name of you challenge without dashed or underscores (it is used in package names) here.
+1. You will be asked to specify a version: `Define value for property 'version' 1.0-SNAPSHOT: :` **Just press Enter here**
+1. You will be asked to specify a a short name for the Challenge: `Define value for property 'shortName':` **Enter the name of you challenge without dashed or underscores (it is used in package names) here.**
