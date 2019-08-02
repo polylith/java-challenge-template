@@ -1,9 +1,9 @@
-# Java Challenge Template for the EntwicklerHeld Platform
 <p align="center"> 
 <img src="https://platform.entwicklerheld.de/assets/img/plumplori-gray-shirt.png" height=300>
 </p>
 Hello Developer Hero! This is the repository for creating your first Java Challenge! Lets rock 🎸! 
 
+# Java Challenge Template for the EntwicklerHeld Platform
 This is a template (Maven Archetype) which sets up a java challenge project. There are 2 possibilities for the setup process.
 
 
