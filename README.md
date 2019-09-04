@@ -32,7 +32,7 @@ This is a template (Maven Archetype) which sets up a java challenge project. The
         mvn install:install-file -Dfile=<path-to-jar> -DgroupId=de.entwicklerheld -DartifactId=java-challenge-template -Dversion=1.0-SNAPSHOT -Dpackaging=jar
         ```
 
-   1. Installation Variant 1:
+   1. Installation Variant 2:
       * Clone repo
       * Run `mvn clean install`
 4. Now you are ready to create a java-challenge-project. Please read the [Create the Project](#create-the-Project) section
