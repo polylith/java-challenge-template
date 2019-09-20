@@ -9,7 +9,7 @@ This is a template (Maven Archetype) which sets up a java challenge project. The
    * Go to Java JDK downlaod page: https://jdk.java.net/12/
    * Download the right installer version for your operating system (.exe, .dmg, .deb)
    * Install the Java JDK
-   * Make shure the JAVA_HOME path is set to the JDK (you can check it with maven later)
+   * Make sure the JAVA_HOME path is set to the JDK (you can check it with maven later)
 
 2. Install Maven
    * Go to Maven download page: https://maven.apache.org/download.cgi
@@ -91,6 +91,6 @@ This is a template (Maven Archetype) which sets up a java challenge project. The
     ```bash
     mvn surefire:test
     ```
-3. There are two different options to send your work to Entwicklerheld:
-    1. Create a Github project and share the link with Entwicklerheld
-    2. Zip your projectfolder and send it over to Entwicklerheld
+3. There are two different options to send your work to EntwicklerHeld:
+    1. Create a Github project and share the link with EntwicklerHeld
+    2. Zip your projectfolder and send it over to EntwicklerHeld
