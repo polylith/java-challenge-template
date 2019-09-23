@@ -1,9 +1,9 @@
 #!/bin/bash
 
-report_file="target/surefire-reports/TEST-${package}.${shortName}.challenge.stage1.ChallengeTest.xml"
+report_file="target/surefire-reports/TEST-${package}.${shortName}.challenge.stage1.ExampleChallengeTest.xml"
 error_file="error.txt"
 
-mvn -q -Dtest=${package}.${shortName}.challenge.stage1.ChallengeTest clean surefire-report:report > ${error_file} 2>&1
+mvn -q -Dtest=${package}.${shortName}.challenge.stage1.ExampleChallengeTest clean surefire-report:report > ${error_file} 2>&1
 if [ -e ${report_file} ]
 then
     cat ${report_file}
