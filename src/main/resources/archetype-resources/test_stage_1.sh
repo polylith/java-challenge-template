@@ -1,6 +1,6 @@
 #!/bin/bash
 
-report_file="target/surefire-reports/TEST-${package}.${shortName}.challenge.stage1.ExampleChallengeTest.xml"
+report_file="target/surefire-reports/TEST-${package}.${shortName}.challenge.stage1.ChallengeTest.xml"
 error_file="error.txt"
 
 mvn -q -Dtest=${package}.${shortName}.challenge.stage1.ExampleChallengeTest clean surefire-report:report > ${error_file} 2>&1
